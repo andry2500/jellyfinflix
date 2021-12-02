@@ -18,7 +18,7 @@
 <h3>Custom  Version:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@<version-number>/default.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/jellyfinflix@<version-number>/default.css");
 ```
 
 <h3>With Logos(recommended):</h3>
