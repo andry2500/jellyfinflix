@@ -12,7 +12,7 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/andry2500/jellyfinflix@latest/default.css");
 ```
 
 <h3>Custom  Version:</h3>
